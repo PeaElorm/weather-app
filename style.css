@@ -129,6 +129,14 @@ body {
     height: 80%;
   }
 
+  .weather-icon img{
+    width: 250px;
+  }
+
+   .weather-icon{
+    margin-bottom: 60px;
+   }
+
   .weather-icon{
     padding-top: 20%;
     padding-bottom: 10%;
