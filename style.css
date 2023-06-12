@@ -105,13 +105,13 @@ body {
 }
 
 @media only screen and (max-width: 480px) {
-    body{
+    /* body{
         overflow: hidden;
-    }
+    } */
   .container {
     width: 95%;
     height: 100vh;
-    margin-top: 10%;
+    /* margin-top: 10%; */
     margin-bottom: 10%;
   }
 
@@ -130,7 +130,7 @@ body {
   }
 
   .weather-icon img{
-    width: 250px;
+    width: 80%;
   }
 
    .weather-icon{
