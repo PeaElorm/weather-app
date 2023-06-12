@@ -133,8 +133,8 @@ body {
     width: 80%;
   }
 
-   .weather-icon{
-    margin-bottom: 60px;
+   .temperature-value{
+    margin-top: 30%;
    }
 
   .weather-icon{
